@@ -14,3 +14,6 @@ Upgrade of the transmission structure: The double cycloidal structure achieves s
 Smoothness of operation: In actual dynamic load tests, the optimized transmission structure effectively suppresses low-speed crawling and reduces torque ripple. This makes the speed curve of the joint motor smoother during startup, reversing and uniform operation, demonstrating outstanding "operational smoothness" and effectively enhancing the trajectory accuracy of the end effector.
 Enhanced rigidity: A larger reduction ratio and a robust meshing structure bring about higher impact resistance and axial/radial rigidity. The joints exhibit less deformation when responding to sudden external forces, thereby improving the dynamic response performance and control stability of the overall robot system.
 ![关节减速模组](pictures/7.gif)
+
+## 致谢
+感谢项目组成员岳国文，田宇鑫在项目迭代与数据处理中做出的贡献，感谢张东老师在项目方案上的精准指导，也感谢项目组其他成员的通力协作。
