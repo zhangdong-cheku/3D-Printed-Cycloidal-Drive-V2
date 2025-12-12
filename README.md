@@ -2,6 +2,8 @@
 伯克利关节优化开源
 伯克利关节在初代设计的基础上，进行了革命性的传动结构优化。其核心在于采用了高精度双摆线齿轮减速机构，替代了传统的行星齿轮或谐波减速方案。
 
+<p align="center">  
+  <img src="pictures/摆线减速器.jpg" width="600"/>
 传动结构的升级：双摆线结构通过共轭的摆线齿形啮合，实现了多齿同时接触。这不仅带来了更大的输出扭矩，其固有的误差均化效应还极大地降低了传动背隙。
 
 运行流畅性：在实际动态负载测试中，优化的传动结构有效抑制了低速爬行现象，并减少了转矩脉动。这使得关节电机在启动、换向及匀速运行时，速度曲线更为平滑，表现为卓越的“运行流畅性”，有效提升了末端执行器的轨迹精度。
@@ -15,7 +17,7 @@ Smoothness of operation: In actual dynamic load tests, the optimized transmissio
 Enhanced rigidity: A larger reduction ratio and a robust meshing structure bring about higher impact resistance and axial/radial rigidity. The joints exhibit less deformation when responding to sudden external forces, thereby improving the dynamic response performance and control stability of the overall robot system.
 
 <p align="center">  
-  <img src="pictures/7.gif" width="800"/>
+  <img src="pictures/7.gif" width="600"/>
  
 ## 致谢
 感谢项目组成员岳国文，田宇鑫在项目迭代与数据处理中做出的贡献，感谢张东老师在项目方案上的精准指导，也感谢项目组其他成员的通力协作。
